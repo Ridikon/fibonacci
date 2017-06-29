@@ -11,4 +11,4 @@ function fibonacci(num) {
     return fiboRabbit2;
 }
 
-document.write(fibonacci(fiboNum));
+document.write('Число Фібоначчі пораховано методом циклу: ' + fibonacci(fiboNum));

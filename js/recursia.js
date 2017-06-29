@@ -9,4 +9,4 @@ function fibonacci(num) {
     }
 }
 
-document.write(fibonacci(fiboNum));
+document.write('Число Фібоначчі пораховано методом рекурсії: ' + fibonacci(fiboNum));
